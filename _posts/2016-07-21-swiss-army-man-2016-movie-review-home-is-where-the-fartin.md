@@ -15,19 +15,21 @@ description: >-
   have an exceptional debut from two exciting young filmmakers: Dan Kwan and
   Daniel Scheinert (The Daniels). It’s really not since Spike Jonze’s Her that
   I’ve seen a film that so profoundly gets loneliness, longing and love.
-datePublished: '2016-07-21T09:59:27.734Z'
-dateModified: '2016-07-21T09:58:45.927Z'
+datePublished: '2016-07-21T10:01:44.466Z'
+dateModified: '2016-07-21T10:00:26.218Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-21-swiss-army-man-2016-movie-review-home-is-where-the-fartin.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-21-swiss-army-man-2016-movie-review-home-is-where-the-fartin.md
 url: swiss-army-man-2016-movie-review-home-is-where-the-fartin/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81ff61d0-cb50-4308-88d6-8548510baeb8.png)
+
 _Swiss Army Man_'s reputation precedes itself. When you reanimate the corpse of our cinematic_Harry Potter, _Daniel Radcliffe, and have his arsehole barking out more noises than the guy from _Police Academy,_you'd expect the attention. Add a few choice adverts with Paul Dano's bearded castaway Hank joyously riding Radcliffe's corpse Manny as a flatulence powered jet-ski and you've got something that's too tantalising to miss. If you can look (and listen) past your beloved "boy who lived" corpse squirting sphincter morse code to Hank you have an exceptional debut from two exciting young filmmakers: Dan Kwan and Daniel Scheinert (The Daniels). It's really not since Spike Jonze's _Her _that I've seen a film that so profoundly gets loneliness, longing and love.
 
 When Hank is on a deserted beach at the end of his rope, ready to end it all he discovers Manny. Manny is a flatulent corpse that begins to interact with Hank and becomes our gateway into Hank's psyche.
@@ -53,6 +55,5 @@ _"If a corpse farts in the woods and no-one's around, does it make a sound."_
 **Written by: Dan Kwan and Daniel Scheinert**
 
 **Starring: Paul Dano, Daniel Radcliffe and Mary Elizabeth Winstead**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81ff61d0-cb50-4308-88d6-8548510baeb8.png)
 
 [0]: https://twitter.com/#!/BlakeisBatman
